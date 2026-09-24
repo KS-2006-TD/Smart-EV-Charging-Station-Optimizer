@@ -9,5 +9,5 @@ const int MQTT_PORT = 1883;
 
 
 // ThingsBoard Device Access Token
-const char*TB_TOKEN = "wdAGVcJqYln7N2rvePPU";
+const char*TB_TOKEN = "token yours";
 const char*BAY_ID= "BAY3";
