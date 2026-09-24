@@ -48,7 +48,7 @@ The simulated charging parameters are sent from the ESP32 to **ThingsBoard using
           └──────────┬───────────┘
                      │
                      └──── MQTT ────► ThingsBoard
-                     ```
+```
 🛠️ Technologies and Tools Used
 Development Environment
 Visual Studio Code
