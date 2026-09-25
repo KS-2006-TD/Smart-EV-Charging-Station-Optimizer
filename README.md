@@ -38,7 +38,7 @@ The video demonstrates the ESP32 charging-bay simulations, Wokwi simulation, Thi
                                  | MQTT
                                  |
 +-------------------------------------------------------------------+
-|                            BAY 2 / BAY 3                          |
+|                            BAY 2 & BAY 3                          |
 |                  ESP32 + Sensors + Relay + Indicators             |
 +-------------------------------------------------------------------+
 ```
