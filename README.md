@@ -11,6 +11,7 @@ The simulated charging parameters are sent from the ESP32 to ThingsBoard using M
 # 🎥 Project Demo
 
 ### YouTube Demo
+Please watch the video before getting into repository so that you can get idea about the project 
 The complete project demonstration is available on YouTube:
 🔗https://www.youtube.com/watch?v=xuunSiOkPps&t=10s
 
@@ -351,6 +352,7 @@ This project was developed during my IoT Internship at **Emertxe**.
 * **Internship Area:** IoT | Embedded Systems | ESP32 | MQTT | ThingsBoard | Edge AI Concepts
 
 ---
+# THANK YOU FOR THE REPOSITORY PROJECT WATCH
 
 # 👨‍💻 Author
 
